@@ -1,4 +1,4 @@
-WEEK 1 - REACT LEARNING
+#WEEK 1 - REACT LEARNING
 
 📚 React Fundamentals & Core Concepts
 
