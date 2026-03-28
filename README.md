@@ -1,4 +1,4 @@
-# dreamwarez-internship-week-1
+WEEK 1 - REACT LEARNING
 
 📚 React Fundamentals & Core Concepts
 
