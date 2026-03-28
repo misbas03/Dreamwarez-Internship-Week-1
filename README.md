@@ -1,10 +1,10 @@
-#WEEK 1 - REACT LEARNING
+# WEEK 1 - REACT LEARNING
 
-📚 React Fundamentals & Core Concepts
+## 📚 React Fundamentals & Core Concepts
 
 During Week 1 of my internship, I focused on building a strong foundation in React.js and understanding how modern frontend applications work.
 
-🧠 What I Learned
+#### 🧠 What I Learned
 	•	⚛️ What React is and how it works
 	•	🧩 Components (Functional Components)
 	•	📦 JSX (JavaScript + HTML syntax)
@@ -20,14 +20,14 @@ During Week 1 of my internship, I focused on building a strong foundation in Rea
 
 ⸻
 
-🛠 Mini Projects Built
+#### 🛠 Mini Projects Built
 	•	⏱ Stopwatch App (with dark/light mode, laps, localStorage)
 	•	🎬 Movie Search App (API integration – OMDB)
 	•	✅ Smart To-Do App (CRUD operations, toggle, delete)
 
 ⸻
 
-💡 Key Takeaways
+#### 💡 Key Takeaways
 	•	State works like a snapshot.
 	•	React re-renders when state changes.
 	•	Never mutate state directly.
@@ -36,7 +36,7 @@ During Week 1 of my internship, I focused on building a strong foundation in Rea
 
 ⸻
 
-🎯 Outcome
+#### 🎯 Outcome
 
 By the end of Week 1, I’m confident in:
 	•	Building interactive UI using React
